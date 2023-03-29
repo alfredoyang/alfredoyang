@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Memoirs</title>
-    <description>I will take you on the fabulous world of exploration. Travel, culture, lifestyle. Eat, Pray, Love!</description>
+    <description>Life is a sacred pilgrimage, and we are all pilgrims. 生命是一場神聖的朝聖, 而我們都是朝聖者.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 29 Mar 2023 16:01:01 +0800</pubDate>
-    <lastBuildDate>Wed, 29 Mar 2023 16:01:01 +0800</lastBuildDate>
+    <pubDate>Wed, 29 Mar 2023 18:47:12 +0800</pubDate>
+    <lastBuildDate>Wed, 29 Mar 2023 18:47:12 +0800</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
     
       <item>
