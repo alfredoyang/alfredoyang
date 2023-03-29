@@ -1,6 +1,6 @@
 # Site
-name: "Memoirs"
-title: "Memoirs"
+name: "Life"
+title: "Blog"
 description: "Life is a sacred pilgrimage, and we are all pilgrims."
 logo: 'assets/images/flower-of-life.png'
 favicon: 'assets/images/flower-of-life.png'
@@ -17,7 +17,6 @@ authors:
     name: Alfredo
     display_name: Alfredo
     description: "Ultralight backpacking, fastpacking enthusiast."
-    instgram: https://www.instagram.com/formoyang
   sal:
     name: Sal
     display_name: Sal
