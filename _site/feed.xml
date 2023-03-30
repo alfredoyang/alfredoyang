@@ -5,8 +5,8 @@
     <description>Life is a sacred pilgrimage, and we are all pilgrims.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 30 Mar 2023 15:01:46 +0800</pubDate>
-    <lastBuildDate>Thu, 30 Mar 2023 15:01:46 +0800</lastBuildDate>
+    <pubDate>Thu, 30 Mar 2023 15:08:52 +0800</pubDate>
+    <lastBuildDate>Thu, 30 Mar 2023 15:08:52 +0800</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
     
       <item>
@@ -241,7 +241,7 @@
 &lt;p&gt;行程一路順利, 八通關舊路輕裝通過有點危險性, 重裝就不建議.&lt;/p&gt;
 
 </description>
-        <pubDate>Sat, 11 Mar 2023 00:00:00 +0800</pubDate>
+        <pubDate>Wed, 15 Mar 2023 00:00:00 +0800</pubDate>
         <link>http://localhost:4000/%E7%9B%86%E9%A6%AC%E7%A7%80/</link>
         <guid isPermaLink="true">http://localhost:4000/%E7%9B%86%E9%A6%AC%E7%A7%80/</guid>
         
@@ -251,49 +251,44 @@
       </item>
     
       <item>
-        <title>2023022 能高安東軍(遇火災撤退)</title>
+        <title>20230225 能高安東軍(遇火災撤退)</title>
         <description>&lt;h1 id=&quot;20130225-能高安東軍-遇森林火災撤退&quot;&gt;20130225 能高安東軍 (遇森林火災撤退)&lt;/h1&gt;
 
 &lt;h2 id=&quot;day1&quot;&gt;DAY1&lt;/h2&gt;
 
-&lt;pre&gt;&lt;code&gt;屯原 - 大陸池 (風大備案: 台灣池). 
+&lt;p&gt;屯原 - 大陸池 (風大備案: 台灣池).&lt;/p&gt;
 
-行程定數 40.067,  預估10小時. 
+&lt;p&gt;行程定數 40.067,  預估10小時.&lt;/p&gt;
 
-https://connect.garmin.com/modern/course/146406910
-&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;https://connect.garmin.com/modern/course/146406910&lt;/p&gt;
 
 &lt;h2 id=&quot;day2&quot;&gt;DAY2&lt;/h2&gt;
 
-&lt;pre&gt;&lt;code&gt;大陸池 - 牡丹池. 
+&lt;p&gt;大陸池 - 牡丹池.&lt;/p&gt;
 
-行程定數 16.103, 預估5小時. 
+&lt;p&gt;行程定數 16.103, 預估5小時.&lt;/p&gt;
 
-https://connect.garmin.com/modern/course/146406935
-&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;https://connect.garmin.com/modern/course/146406935&lt;/p&gt;
 
 &lt;h2 id=&quot;day3&quot;&gt;DAY3&lt;/h2&gt;
 
-&lt;pre&gt;&lt;code&gt;牡丹池 - 第二獵寮營地. 
+&lt;p&gt;牡丹池 - 第二獵寮營地.&lt;/p&gt;
 
-行程定數 30.275, 預估10小時. 
+&lt;p&gt;行程定數 30.275, 預估10小時.&lt;/p&gt;
 
-https://connect.garmin.com/modern/course/146406954 
-&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;https://connect.garmin.com/modern/course/146406954&lt;/p&gt;
 
 &lt;h2 id=&quot;day4&quot;&gt;DAY4&lt;/h2&gt;
 
-&lt;pre&gt;&lt;code&gt;第二獵寮營地 - 安東軍山 - 奧萬大.
+&lt;p&gt;第二獵寮營地 - 安東軍山 - 奧萬大.&lt;/p&gt;
 
-行程定數 16.59, 預估5小時. 
+&lt;p&gt;行程定數 16.59, 預估5小時.&lt;/p&gt;
 
-https://connect.garmin.com/modern/course/146406961
-&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;https://connect.garmin.com/modern/course/146406961&lt;/p&gt;
 
 &lt;h2 id=&quot;裝備列表&quot;&gt;裝備列表&lt;/h2&gt;
 
-&lt;pre&gt;&lt;code&gt;https://lighterpack.com/r/efe0eo
-&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;https://lighterpack.com/r/efe0eo&lt;/p&gt;
 
 &lt;h2 id=&quot;測試項目&quot;&gt;測試項目&lt;/h2&gt;
 
@@ -367,7 +362,7 @@ https://connect.garmin.com/modern/course/146406961
 
 &lt;iframe src=&quot;https://connect.garmin.com/modern/activity/embed/10585812149&quot; title=&quot;能高安東軍 D2 (森林火災，撤退)&quot; width=&quot;465&quot; height=&quot;500&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;
 </description>
-        <pubDate>Sat, 25 Feb 2023 00:00:00 +0800</pubDate>
+        <pubDate>Tue, 28 Feb 2023 00:00:00 +0800</pubDate>
         <link>http://localhost:4000/%E8%83%BD%E9%AB%98%E5%AE%89%E6%9D%B1%E8%BB%8D(%E9%81%87%E7%81%AB%E7%81%BD%E6%92%A4%E9%80%80)/</link>
         <guid isPermaLink="true">http://localhost:4000/%E8%83%BD%E9%AB%98%E5%AE%89%E6%9D%B1%E8%BB%8D(%E9%81%87%E7%81%AB%E7%81%BD%E6%92%A4%E9%80%80)/</guid>
         
