@@ -13,7 +13,7 @@ var documents = [{
     "id": 2,
     "url": "http://localhost:4000/authors",
     "title": "Authors",
-    "body": "                                                                                                                  Alfredo:         Ultralight backpacking, fastpacking enthusiast.                                                                                                                                                                                                    Sal:         Author of Memoirs, a Bootstrap Medium styled template available for Jekyll. You are currently previewing Jekyll template demo.                                                                                                                                                                                                    John:         Write a short description of the author here. You are currently previewing Memoirs demo, a Jekyll template compatible with Github pages.                "
+    "body": "                                                                                                                  Alfredo:         Ultralight backpacking, fastpacking enthusiast.                "
     }, {
     "id": 3,
     "url": "http://localhost:4000/categories",
@@ -23,12 +23,12 @@ var documents = [{
     "id": 4,
     "url": "http://localhost:4000/contact",
     "title": "Contact",
-    "body": "  Please send your message to Life. We will reply as soon as possible!   "
+    "body": "  Please send your message to Memoirs. We will reply as soon as possible!   "
     }, {
     "id": 5,
     "url": "http://localhost:4000/",
     "title": "Home",
-    "body": "                                                                                               20230311 - 20230313 盆馬秀O型              :       盆馬秀O型東埔-對關-龍貓公車-郡大溪底-盆駒山-馬博拉斯山-秀姑巒山-東埔:                                                                               Alfredo                 15 Mar 2023                                                                                                                           20230225 能高安東軍(遇火災撤退)              :       20130225 能高安東軍 (遇森林火災撤退):                                                                               Alfredo                 28 Feb 2023                                "
+    "body": "                                                                                               20230311 - 20230313 盆馬秀O型              :       盆馬秀O型東埔-對關-龍貓公車-郡大溪底-盆駒山-馬博拉斯山-秀姑巒山-東埔:                                                                               Alfredo                 15 Mar 2023                                                                                                                           20230225 能高安東軍(遇火災撤退)              :       20130225 能高安東軍 (遇森林火災撤退):                                                                               Alfredo                 28 Feb 2023                                                                                                                           20230106-20230109 新康橫斷              :       20230106 新康橫斷:                                                                               Alfredo                 06 Jan 2023                                "
     }, {
     "id": 6,
     "url": "http://localhost:4000/robots.txt",
@@ -44,6 +44,11 @@ var documents = [{
     "url": "http://localhost:4000/%E8%83%BD%E9%AB%98%E5%AE%89%E6%9D%B1%E8%BB%8D(%E9%81%87%E7%81%AB%E7%81%BD%E6%92%A4%E9%80%80)/",
     "title": "20230225 能高安東軍(遇火災撤退)",
     "body": "2023/02/28 - 20130225 能高安東軍 (遇森林火災撤退)DAY1: 屯原 - 大陸池 (風大備案: 台灣池). 行程定數 40. 067, 預估10小時. https://connect. garmin. com/modern/course/146406910 DAY2: 大陸池 - 牡丹池. 行程定數 16. 103, 預估5小時. https://connect. garmin. com/modern/course/146406935 DAY3: 牡丹池 - 第二獵寮營地. 行程定數 30. 275, 預估10小時. https://connect. garmin. com/modern/course/146406954 DAY4: 第二獵寮營地 - 安東軍山 - 奧萬大. 行程定數 16. 59, 預估5小時. https://connect. garmin. com/modern/course/146406961 裝備列表: https://lighterpack. com/r/efe0eo 測試項目:  天氣預測: 以大陸池為基準點, D1-D2, -3度至7度,雲高約3000m,大陸池及牡丹池大部分為晴朗天氣, 清晨夜晚會有冰霜. D3-D4, 進入中級山高度, 多雲天氣.  0 ~ -5度裝備測試, 測試加入 sol bivy 當成 quilt 內袋的增溫效果.  alpha direct 90 + Patagonia Houdini windshell 行進效果.  Decalthon 防水噴霧在 gaitor 及越野鞋上的效果. 行程紀錄: Day 1: 前一天至奧萬大車宿. 0600 奧萬大上接駁車 0730 抵達屯原登山口 0830 抵達雲海保線所前土地公廟 0846 雲海保線所 0905 過崩壁 1044 天池山莊前吊橋. 1108 天池山莊, 小休約10分鐘補水. 1147 光被八表. 1431 過卡赫爾山後一片濃霧, 以及上能高主前的碎石坡. 1525 遇火災撤回天池山莊. Day1 回顧:: 前半天行程順利, 約3小時抵達天池山莊. 之後往能高主峰前進, 電塔前箭竹高且密集, 容易損傷衣物裝備. 離主峰前2-3公里就聞到濃濃的燒焦味, 由撤退的山友得知台灣池那邊箭竹起火, 評估之下決定撤回天池緊急避難. 前半天天氣晴朗, 後半天雲霧升起且高於3000公尺. 天池晚上溫度約4度, 穿著羽絨衣睡很舒服. Alpha direct90 + patagonia Houdini windshell 在強風下行進間非常舒服, 但是如果風小一點的話, 只需要 windshell 即可. 本日行程定數約 50. 8, 體感很累. Day 2: Day2 回顧:: 由天池山莊一路下撤, 十分順利. "
+    }, {
+    "id": 9,
+    "url": "http://localhost:4000/%E6%96%B0%E5%BA%B7%E6%A9%AB%E6%96%B7/",
+    "title": "20230106-20230109 新康橫斷",
+    "body": "2023/01/06 - 20230106 新康橫斷行前根據windy預報, 雲層高度都在3千公尺以下, 加上週末冷氣團南下, 預計前三天在3千公尺的稜線上會是看雲海的好天氣, 只有最後一 晚會下降到雲霧底下, 預計會有小雨. 裝備表 https://lighterpack. com/r/3c3fz1 Day1: 0630從嘉明湖楊姐民宿接駁出發, 0830向陽起登.  1200到嘉明湖避難山屋, 途中遇到3人也是新康行下撤, 後來遇到山屋協作跟管理員才知, 因為前一晚沒睡好又太冷體力不支. 兩點到嘉明湖, 有雲有藍天, 遇到另一隊兩人. 路上偶遇下雨才有的草原乾淨看天池, 取水, 省了營地下切取水的時間. 約1600抵達布新營地, 擔心草原 風大, 再前行500公尺找個樹林圍繞的地點紮營.  晚上月圓高照, 微風徐徐, 溫度約0度上下. Day2: 0740起登, 一路往布拉克桑山前行, 沿路經過大大小小丘陵地形, 還有一個山豬打滾池. 約1015抵達布拉克桑山三角點, 沒有景觀隨便拍個登頂照就回程; 1225回到紮營處, 大休一個小時, 1330拔營往桃源營地. 途中稜線四周都是雲海, 遠方的山脈就像島嶼一般突出雲面, 路經軍機殘骸處, 心中默默祈禱後速速離去.  1730抵達桃源營地, 幸運在營地留有一壺水約2升多, 又省下下切取水的困擾. Day3: 0820收帳起登, 今天路程 garmin basecamp預估13公里, 遠比前兩天短的多, 因此預計今天應該算是相對輕鬆的行程, 結果卻不是如此. 一出發就是陡上連理山, 0949抵達連理山山頂. 沿途經過大大小小的稜線路跡清晰, 1056抵達新仙山前營地.  1130到達新仙山營地八通關下切點, 續行往新康山, 沿途除了上上下下的稜線須注意行進腳步, 還有一個50m高的崩壁, 需要用上不少的力量拉繩而下, 最後在陡上300m上新康山, 抵達三角點時已經1250, 此時已經知道待會下到抱崖山屋時可能會摸點小黑. 最後再往前天宮堡壘, 算是此行的最高潮, 藍天白雲一望無際的雲海, 盡收眼底. 回到仙山營地已經1440, 立即加速往八通關下切. 沿途森林巨木林立, 心裡想著原來台灣森林在大伐木時代前是這個樣子; 網路上傳聞這邊比塔魔巴的森林還美, 果然如此; 但心中也暗暗懊悔, 應該早點出發, 就有時間慢慢欣賞這片森林.  下到古道已經是1730天黑了, 摸黑了兩公里到抱崖山屋已經1800.  今天紀錄行程17. 6km, 跟原本預估的13. 7km相差了4公里遠, 猜測應該是今天的微地形太多, 導致距離估算失準這麼大. Day4: 0818山屋出發, 早上起床一抹彩虹橫跨藍紅相間的天空, 甚是特別. 八通關古道到瓦拉米山屋前大大小小的坍方不斷, 其中有兩處比較大的坍方有拉繩須特別注意, 其他都可以輕鬆通過.  行程至此, 背包重大約只剩4公斤出頭, 已經是我慣常越野跑的負重範圍內, 加上古道寬大, 不跑起來實在對不起自己平常的練習, 1505跑完28km出瓦拉米步道口. "
     }];
 
 var idx = lunr(function () {
