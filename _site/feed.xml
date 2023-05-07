@@ -3,10 +3,10 @@
   <channel>
     <title>Blog</title>
     <description>Life is a sacred pilgrimage, and we are all pilgrims.</description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 02 May 2023 15:14:48 +0800</pubDate>
-    <lastBuildDate>Tue, 02 May 2023 15:14:48 +0800</lastBuildDate>
+    <link>/</link>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 07 May 2023 15:27:44 +0800</pubDate>
+    <lastBuildDate>Sun, 07 May 2023 15:27:44 +0800</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
     
       <item>
@@ -38,8 +38,8 @@
 &lt;p&gt;&lt;img src=&quot;https://i.imgur.com/pJ2Tfgw.jpg&quot; height=&quot;600&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Sun, 23 Apr 2023 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/Challenge_Taiwan_113/</link>
-        <guid isPermaLink="true">http://localhost:4000/Challenge_Taiwan_113/</guid>
+        <link>/Challenge_Taiwan_113/</link>
+        <guid isPermaLink="true">/Challenge_Taiwan_113/</guid>
         
         
         <category>Triathlon</category>
@@ -114,8 +114,8 @@
 &lt;p&gt;油脂的缺點就是能量供給比不上碳水來得快, 你必須把你的心率調整在有氧範圍內, 要不然強度過高血糖消耗完之後, 就必須休息等回血. 當然這可以用訓練來彌補, 平常可以刻意訓練拉高有氧閾值, 讓你在心率/功率增加的狀況仍然維持在有氧運動的範圍內.&lt;/p&gt;
 </description>
         <pubDate>Tue, 04 Apr 2023 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/%E7%99%BB%E5%B1%B1%E8%BC%95%E9%87%8F%E5%8C%96%E7%B3%A7%E9%A3%9F%E8%A6%8F%E5%8A%83-%E6%99%9A%E9%A4%90/</link>
-        <guid isPermaLink="true">http://localhost:4000/%E7%99%BB%E5%B1%B1%E8%BC%95%E9%87%8F%E5%8C%96%E7%B3%A7%E9%A3%9F%E8%A6%8F%E5%8A%83-%E6%99%9A%E9%A4%90/</guid>
+        <link>/%E7%99%BB%E5%B1%B1%E8%BC%95%E9%87%8F%E5%8C%96%E7%B3%A7%E9%A3%9F%E8%A6%8F%E5%8A%83-%E6%99%9A%E9%A4%90/</link>
+        <guid isPermaLink="true">/%E7%99%BB%E5%B1%B1%E8%BC%95%E9%87%8F%E5%8C%96%E7%B3%A7%E9%A3%9F%E8%A6%8F%E5%8A%83-%E6%99%9A%E9%A4%90/</guid>
         
         
         <category>Ultralight</category>
@@ -355,8 +355,8 @@
 
 </description>
         <pubDate>Wed, 15 Mar 2023 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/%E7%9B%86%E9%A6%AC%E7%A7%80/</link>
-        <guid isPermaLink="true">http://localhost:4000/%E7%9B%86%E9%A6%AC%E7%A7%80/</guid>
+        <link>/%E7%9B%86%E9%A6%AC%E7%A7%80/</link>
+        <guid isPermaLink="true">/%E7%9B%86%E9%A6%AC%E7%A7%80/</guid>
         
         
         <category>Travel</category>
@@ -476,8 +476,8 @@
 &lt;iframe src=&quot;https://connect.garmin.com/modern/activity/embed/10585812149&quot; title=&quot;能高安東軍 D2 (森林火災，撤退)&quot; width=&quot;465&quot; height=&quot;500&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;
 </description>
         <pubDate>Tue, 28 Feb 2023 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/%E8%83%BD%E9%AB%98%E5%AE%89%E6%9D%B1%E8%BB%8D(%E9%81%87%E7%81%AB%E7%81%BD%E6%92%A4%E9%80%80)/</link>
-        <guid isPermaLink="true">http://localhost:4000/%E8%83%BD%E9%AB%98%E5%AE%89%E6%9D%B1%E8%BB%8D(%E9%81%87%E7%81%AB%E7%81%BD%E6%92%A4%E9%80%80)/</guid>
+        <link>/%E8%83%BD%E9%AB%98%E5%AE%89%E6%9D%B1%E8%BB%8D(%E9%81%87%E7%81%AB%E7%81%BD%E6%92%A4%E9%80%80)/</link>
+        <guid isPermaLink="true">/%E8%83%BD%E9%AB%98%E5%AE%89%E6%9D%B1%E8%BB%8D(%E9%81%87%E7%81%AB%E7%81%BD%E6%92%A4%E9%80%80)/</guid>
         
         
         <category>Travel</category>
@@ -596,8 +596,8 @@
 &lt;p&gt;行程至此, 背包重大約只剩4公斤出頭, 已經是我慣常越野跑的負重範圍內, 加上古道寬大, 不跑起來實在對不起自己平常的練習, 1505跑完28km出瓦拉米步道口.&lt;/p&gt;
 </description>
         <pubDate>Fri, 06 Jan 2023 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/%E6%96%B0%E5%BA%B7%E6%A9%AB%E6%96%B7/</link>
-        <guid isPermaLink="true">http://localhost:4000/%E6%96%B0%E5%BA%B7%E6%A9%AB%E6%96%B7/</guid>
+        <link>/%E6%96%B0%E5%BA%B7%E6%A9%AB%E6%96%B7/</link>
+        <guid isPermaLink="true">/%E6%96%B0%E5%BA%B7%E6%A9%AB%E6%96%B7/</guid>
         
         
         <category>Travel</category>
