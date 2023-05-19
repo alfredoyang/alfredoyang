@@ -3,11 +3,62 @@
   <channel>
     <title>Blog</title>
     <description>Life is a sacred pilgrimage, and we are all pilgrims.</description>
-    <link>/</link>
-    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 07 May 2023 15:27:44 +0800</pubDate>
-    <lastBuildDate>Sun, 07 May 2023 15:27:44 +0800</lastBuildDate>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 19 May 2023 13:36:44 +0800</pubDate>
+    <lastBuildDate>Fri, 19 May 2023 13:36:44 +0800</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
+    
+      <item>
+        <title>營地生活</title>
+        <description>&lt;h1 id=&quot;營地生活&quot;&gt;營地生活&lt;/h1&gt;
+
+&lt;p&gt;對我而言, 百岳數不是非常重要, 但是紮營在一個風景優美的地方過夜是比攻頂還重要的; 像之前去走戒茂斯上嘉明湖, 除了嘉明湖外, 另一個重點就是想在高爾夫球場過夜一晚.
+&lt;br /&gt;
+大多數人應該都是已攻頂為主, 能睡山屋就盡量睡山屋, 我則是能自己紮營就不睡山屋, 這也是我會選擇獨攀的原因之一 (因為很難找到跟我相同癖好的人啊…).&lt;/p&gt;
+
+&lt;p&gt;戒茂斯高爾夫球場日出.
+&lt;img src=&quot;/assets/images/20230519/IMG_3682.jpeg&quot; alt=&quot;戒茂斯高爾夫球場日出&quot; width=&quot;600&quot; /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;當然營地可以選在樹林中, 松針鋪地是最好, 如果海拔夠高, 早上還可以看見日出的陽光照進天幕裡, 在這種情境下醒來是令人心情愉悅不過了.
+這時再泡杯咖啡, 漫步或小坐在營地周圍, 呼吸著清晨冷冷的空氣, 幸福感滿滿.
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;所以我爬山基本上都不摸黑, 早上花個一小時慢慢品嚐清晨的滋味, 非常值得.&lt;/p&gt;
+
+&lt;p&gt;布新營地往布拉克桑山途中的松針營地.
+&lt;img src=&quot;/assets/images/20230519/IMG_4300.jpeg&quot; alt=&quot;布新營地往布拉克桑山途中的松針營地&quot; width=&quot;450&quot; /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;而在中海拔的高度, 晚上聽著森林中各式各樣小動物或鳥叫聲, 地上落葉偶而傳來稀稀疏疏的腳步聲, 伴著入眠, 是活在都市中完全想像不到的.&lt;/p&gt;
+
+&lt;p&gt;盆駒山西稜2140m營地
+&lt;img src=&quot;/assets/images/20230519/IMG_4601.jpeg&quot; alt=&quot;塔曼山山頂&quot; width=&quot;600&quot; /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;塔曼山山頂三角點附近.&lt;br /&gt;
+&lt;img src=&quot;/assets/images/20230519/IMG_3738.jpeg&quot; alt=&quot;塔曼山山頂&quot; width=&quot;450&quot; /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;湖邊的晨光更是難得, 就算天幕因返潮溼了整片都無所謂.&lt;/p&gt;
+
+&lt;p&gt;加羅湖畔. &lt;br /&gt;
+&lt;img src=&quot;/assets/images/20230519/IMG_3627.jpeg&quot; alt=&quot;加羅湖畔&quot; width=&quot;600&quot; /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;棲蘭池.&lt;br /&gt;
+&lt;img src=&quot;/assets/images/lake_camping.jpeg&quot; alt=&quot;棲蘭池&quot; width=&quot;450&quot; /&gt;
+&lt;br /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Fri, 19 May 2023 00:00:00 +0800</pubDate>
+        <link>http://localhost:4000/%E7%87%9F%E5%9C%B0%E7%94%9F%E6%B4%BB/</link>
+        <guid isPermaLink="true">http://localhost:4000/%E7%87%9F%E5%9C%B0%E7%94%9F%E6%B4%BB/</guid>
+        
+        
+        <category>Travel</category>
+        
+      </item>
     
       <item>
         <title>2023 Challenge Taiwan 113</title>
@@ -38,8 +89,8 @@
 &lt;p&gt;&lt;img src=&quot;https://i.imgur.com/pJ2Tfgw.jpg&quot; height=&quot;600&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Sun, 23 Apr 2023 00:00:00 +0800</pubDate>
-        <link>/Challenge_Taiwan_113/</link>
-        <guid isPermaLink="true">/Challenge_Taiwan_113/</guid>
+        <link>http://localhost:4000/Challenge_Taiwan_113/</link>
+        <guid isPermaLink="true">http://localhost:4000/Challenge_Taiwan_113/</guid>
         
         
         <category>Triathlon</category>
@@ -114,8 +165,8 @@
 &lt;p&gt;油脂的缺點就是能量供給比不上碳水來得快, 你必須把你的心率調整在有氧範圍內, 要不然強度過高血糖消耗完之後, 就必須休息等回血. 當然這可以用訓練來彌補, 平常可以刻意訓練拉高有氧閾值, 讓你在心率/功率增加的狀況仍然維持在有氧運動的範圍內.&lt;/p&gt;
 </description>
         <pubDate>Tue, 04 Apr 2023 00:00:00 +0800</pubDate>
-        <link>/%E7%99%BB%E5%B1%B1%E8%BC%95%E9%87%8F%E5%8C%96%E7%B3%A7%E9%A3%9F%E8%A6%8F%E5%8A%83-%E6%99%9A%E9%A4%90/</link>
-        <guid isPermaLink="true">/%E7%99%BB%E5%B1%B1%E8%BC%95%E9%87%8F%E5%8C%96%E7%B3%A7%E9%A3%9F%E8%A6%8F%E5%8A%83-%E6%99%9A%E9%A4%90/</guid>
+        <link>http://localhost:4000/%E7%99%BB%E5%B1%B1%E8%BC%95%E9%87%8F%E5%8C%96%E7%B3%A7%E9%A3%9F%E8%A6%8F%E5%8A%83-%E6%99%9A%E9%A4%90/</link>
+        <guid isPermaLink="true">http://localhost:4000/%E7%99%BB%E5%B1%B1%E8%BC%95%E9%87%8F%E5%8C%96%E7%B3%A7%E9%A3%9F%E8%A6%8F%E5%8A%83-%E6%99%9A%E9%A4%90/</guid>
         
         
         <category>Ultralight</category>
@@ -355,8 +406,8 @@
 
 </description>
         <pubDate>Wed, 15 Mar 2023 00:00:00 +0800</pubDate>
-        <link>/%E7%9B%86%E9%A6%AC%E7%A7%80/</link>
-        <guid isPermaLink="true">/%E7%9B%86%E9%A6%AC%E7%A7%80/</guid>
+        <link>http://localhost:4000/%E7%9B%86%E9%A6%AC%E7%A7%80/</link>
+        <guid isPermaLink="true">http://localhost:4000/%E7%9B%86%E9%A6%AC%E7%A7%80/</guid>
         
         
         <category>Travel</category>
@@ -476,8 +527,8 @@
 &lt;iframe src=&quot;https://connect.garmin.com/modern/activity/embed/10585812149&quot; title=&quot;能高安東軍 D2 (森林火災，撤退)&quot; width=&quot;465&quot; height=&quot;500&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;
 </description>
         <pubDate>Tue, 28 Feb 2023 00:00:00 +0800</pubDate>
-        <link>/%E8%83%BD%E9%AB%98%E5%AE%89%E6%9D%B1%E8%BB%8D(%E9%81%87%E7%81%AB%E7%81%BD%E6%92%A4%E9%80%80)/</link>
-        <guid isPermaLink="true">/%E8%83%BD%E9%AB%98%E5%AE%89%E6%9D%B1%E8%BB%8D(%E9%81%87%E7%81%AB%E7%81%BD%E6%92%A4%E9%80%80)/</guid>
+        <link>http://localhost:4000/%E8%83%BD%E9%AB%98%E5%AE%89%E6%9D%B1%E8%BB%8D(%E9%81%87%E7%81%AB%E7%81%BD%E6%92%A4%E9%80%80)/</link>
+        <guid isPermaLink="true">http://localhost:4000/%E8%83%BD%E9%AB%98%E5%AE%89%E6%9D%B1%E8%BB%8D(%E9%81%87%E7%81%AB%E7%81%BD%E6%92%A4%E9%80%80)/</guid>
         
         
         <category>Travel</category>
@@ -596,8 +647,8 @@
 &lt;p&gt;行程至此, 背包重大約只剩4公斤出頭, 已經是我慣常越野跑的負重範圍內, 加上古道寬大, 不跑起來實在對不起自己平常的練習, 1505跑完28km出瓦拉米步道口.&lt;/p&gt;
 </description>
         <pubDate>Fri, 06 Jan 2023 00:00:00 +0800</pubDate>
-        <link>/%E6%96%B0%E5%BA%B7%E6%A9%AB%E6%96%B7/</link>
-        <guid isPermaLink="true">/%E6%96%B0%E5%BA%B7%E6%A9%AB%E6%96%B7/</guid>
+        <link>http://localhost:4000/%E6%96%B0%E5%BA%B7%E6%A9%AB%E6%96%B7/</link>
+        <guid isPermaLink="true">http://localhost:4000/%E6%96%B0%E5%BA%B7%E6%A9%AB%E6%96%B7/</guid>
         
         
         <category>Travel</category>
