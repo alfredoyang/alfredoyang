@@ -25,6 +25,10 @@
 <lastmod>2023-05-19T00:00:00+08:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/%E5%BF%97%E4%BD%B3%E9%99%BD%E4%B8%8A%E9%9B%AA%E4%B8%BB/</loc>
+<lastmod>2023-06-03T00:00:00+08:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/about</loc>
 </url>
 <url>
@@ -50,6 +54,9 @@
 </url>
 <url>
 <loc>http://localhost:4000/category/triathlon/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/page2/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/google0846a7754d041f1e.html</loc>
